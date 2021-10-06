@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Technologies
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 <!--
 **mateusz-wojcik-93/mateusz-wojcik-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
