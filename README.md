@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [cryptocurrencies project binance-api](https://github.com/mateusz-wojcik-93/binance-api)
 
-- 🌱 I’m currently learning **Java 17** and developing [https://github.com/mateusz-wojcik-93/binance-api](https://github.com/mateusz-wojcik-93/binance-api)
+- 🌱 I’m currently learning **Java 17** and **Reactive Spring API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mateusz-wojcik-93](https://github.com/mateusz-wojcik-93)
 
